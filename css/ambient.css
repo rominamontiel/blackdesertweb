@@ -1,0 +1,28 @@
+#galeria{
+    background: #333;
+    color:#FFF;
+    text-align: center;
+    padding: 10px;
+}
+
+#galeria .contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.ambiente{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.ambiente img{
+    width: 400px;
+    /* border: 2px solid #FFF; */
+}
+
+#galeria h2{
+    margin: 15px;
+}
